@@ -1,1 +1,2 @@
-print(7+3)
+a = int("1.1")
+print(a)
